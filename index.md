@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to my first repository
 
 You can use the [editor on GitHub](https://github.com/khay100/hello-world/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
